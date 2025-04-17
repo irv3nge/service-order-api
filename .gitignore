@@ -1,0 +1,20 @@
+# Maven
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Maven wrapper (opcional)
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Arquivos de config sensíveis
+application.yml
+application.properties
